@@ -2,3 +2,5 @@ ini text dari branch ujang
 
 ini tambahan text dari ujang
 p
+
+text ini ditambahkan secara langsung dari github
